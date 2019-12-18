@@ -23,3 +23,4 @@ C. Kill Request
    1.Get
       localhost:8081/rule/dragon/kill/dragonID/animal/timeStamp
          ex-localhost:8081/rule/dragon/kill/Dragon1/3/2020-01-01-04:30
+ 
